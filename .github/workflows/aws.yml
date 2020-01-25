@@ -1,4 +1,4 @@
-# This workflow will build and push a new container image to Amazon ECR,
+![Deploy to Amazon ECS](https://github.com/quinmark-8/bankingwithquincy/workflows/Deploy%20to%20Amazon%20ECS/badge.svg?event=deployment_status) This workflow will build and push a new container image to Amazon ECR,
 # and then will deploy a new task definition to Amazon ECS, on every push
 # to the master branch.
 #
