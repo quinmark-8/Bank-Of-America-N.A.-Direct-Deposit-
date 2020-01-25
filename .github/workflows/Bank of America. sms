@@ -1,0 +1,19 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
+Run: Bank of America dot sms plus Wells Fargo Bank dot sms.sms 
+Money Market Withdrawal Account Non Negotiation Bank Of America Banking with Quinmark Banking with Quincy and Banking with Pornstar Money Mutual Money Gram Money Market Down Jones System Quick Cash Easy Money Quick Dollar Scams and Arab Cash Lifestyles and nothing else closing life.
